@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Dice_roll : MonoBehaviour
+public class DiceRoll : MonoBehaviour
 {
     public static bool DiceIsOpened = false;
     public GameObject diceMenuUI;

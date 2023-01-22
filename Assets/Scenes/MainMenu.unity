@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 604374053}
     m_Modifications:
+    - target: {fileID: 3535290047791849414, guid: 2eebde43db5d99e4eb84ce38465a1ac9, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4539877829773607398, guid: 2eebde43db5d99e4eb84ce38465a1ac9, type: 3}
       propertyPath: m_Text
       value: Create world
@@ -719,6 +723,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 604374053}
     m_Modifications:
+    - target: {fileID: 3535290047791849414, guid: 2eebde43db5d99e4eb84ce38465a1ac9, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4539877829773607398, guid: 2eebde43db5d99e4eb84ce38465a1ac9, type: 3}
       propertyPath: m_Text
       value: 'Settings
