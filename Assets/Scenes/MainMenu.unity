@@ -1081,7 +1081,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4539877829773607398, guid: 2eebde43db5d99e4eb84ce38465a1ac9, type: 3}
       propertyPath: m_Text
-      value: 'FUCK YOU
+      value: 'Exit
 
 '
       objectReference: {fileID: 0}
