@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Dragger : MonoBehaviour
+public class TokenDragAndDrop : MonoBehaviour
 {
     private Vector3 _dragOffset;
 
